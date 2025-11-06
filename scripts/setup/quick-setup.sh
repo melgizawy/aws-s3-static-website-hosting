@@ -5,7 +5,7 @@
 #
 # Description: Complete automated setup for S3 static website hosting
 # This script runs all necessary steps in sequence
-# Author: Your Name
+# Author: Mohammad Elgizawy
 # Date: 2025
 ###############################################################################
 
