@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AWS-S3-Static-Website-Hosting
 Professional demonstration of AWS S3 capabilities including static website hosting, disaster recovery, and advanced security configurations
 =======
@@ -880,4 +879,3 @@ _Last Updated: January 2025_
 [⬆ Back to Top](#-aws-s3-static-website-hosting--management-portfolio)
 
 </div>
->>>>>>> ea5c6d8 (feat: Add main styles, error page, and index for AWS S3 Portfolio)
