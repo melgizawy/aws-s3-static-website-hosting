@@ -8,7 +8,7 @@
 
 **Professional AWS S3 Portfolio Project showcasing cloud engineering skills**
 
-[Live Demo](#-live-demo) • [Documentation](#-documentation) • [Quick Start](#-quick-start) • [Contact](#-contact)
+[Live Demo](http://static-website-gizawy.s3-website-us-east-1.amazonaws.com/) • [Documentation](#-documentation) • [Quick Start](#-quick-start) • [Contact](#-contact)
 
 ![Website Preview](documentation/screenshots/06-website/16-website-live-homepage.png)
 
